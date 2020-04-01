@@ -1,0 +1,19 @@
+{
+  "name": "passport-local-strategy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CourtneyDM/passport-local-strategy.git"
+  },
+  "author": "Courtney Montgomery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CourtneyDM/passport-local-strategy/issues"
+  },
+  "homepage": "https://github.com/CourtneyDM/passport-local-strategy#readme"
+}
